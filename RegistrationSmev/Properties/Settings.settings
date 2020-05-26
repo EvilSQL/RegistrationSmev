@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RegistrationSMEV.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="APIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fgurb7byl70ath508vhu7r8idw31vuoapuairtej7z60i10vj8egs0nxilnodjd1t0v9gxioq</Value>
+    </Setting>
+    <Setting Name="HTTPHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.1.197/</Value>
+    </Setting>
+    <Setting Name="REG_ON" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AUTO_REG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RegFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data.txt</Value>
+    </Setting>
+    <Setting Name="CertDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cert</Value>
+    </Setting>
+    <Setting Name="dbfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SerialDb.db</Value>
+    </Setting>
+    <Setting Name="logFileClean" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
