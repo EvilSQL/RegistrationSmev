@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="APIKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)">fgurb7byl70ath508vhu7r8idw31vuoapuairtej7z60i10vj8egs0nxilnodjd1t0v9gxioq</Value>
+      <Value Profile="(Default)">!!!!!!!!!!!!!API KEY!!!!!!!!!!!!!!!</Value>
     </Setting>
     <Setting Name="HTTPHost" Type="System.String" Scope="User">
       <Value Profile="(Default)">http://192.168.1.197/</Value>
